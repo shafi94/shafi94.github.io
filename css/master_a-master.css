@@ -23,7 +23,7 @@
 
 #u178
 {
-	background-color: #F7931E;
+	background-color: #8C6239;
 	position: relative;
 }
 
@@ -52,7 +52,7 @@
 
 #u185
 {
-	background-color: #F7931E;
+	background-color: #8C6239;
 	position: relative;
 }
 
@@ -379,7 +379,7 @@
 
 #u195
 {
-	background-color: #F7931E;
+	background-color: #8C6239;
 	position: relative;
 }
 
@@ -408,7 +408,7 @@
 
 #u202
 {
-	background-color: #F7931E;
+	background-color: #8C6239;
 	position: relative;
 }
 
@@ -435,7 +435,7 @@
 	position: relative;
 }
 
-#u177,#u184,#u213,#u756,#u769,#u782,#u795,#u808,#u821,#u834,#u847,#u860,#u873,#u192,#u199,#u206
+#u1823,#u177,#u184,#u213,#u756,#u769,#u782,#u795,#u808,#u821,#u834,#u847,#u860,#u873,#u192,#u199,#u206
 {
 	background-color: transparent;
 	position: relative;
@@ -443,7 +443,7 @@
 
 #u209
 {
-	background-color: #F7931E;
+	background-color: #8C6239;
 	position: relative;
 }
 
@@ -480,10 +480,10 @@
 	cursor: pointer;
 }
 
-#u1812
+#u1829
 {
+	background-color: #FCB040;
 	position: relative;
-	background: transparent url("../images/331410.jpg") repeat-y center center;
 }
 
 #u1819
@@ -492,12 +492,15 @@
 	position: relative;
 }
 
+#u1812
+{
+	position: relative;
+	background: transparent url("../images/331410.jpg") repeat-y center center;
+}
+
 #u883-4
 {
 	background-color: #8C6239;
-	opacity: 0.6699999999999999;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=66.99999999999999)";
-	filter: alpha(opacity=66.99999999999999);
 	color: #FFFFFF;
 	position: relative;
 }

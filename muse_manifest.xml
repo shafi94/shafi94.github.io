@@ -1,23 +1,23 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shafi94.github.io" resolutions="1x" timestamp="1551115463558">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shafi94.projects.github.io" resolutions="1x" timestamp="1551290220858">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="3878606591" ref="index:order:contact:resistor,-variable-resistor---ldr:transisitor---mosfet:relay:spare-parts:soalr-panel:policy:board:led---ir:capacitors:ic---base:battery:connector:other-parts"/>
-    <file name="index.css" crc="158276349" ref="index"/>
-    <file name="order.css" crc="3891866833" ref="order"/>
-    <file name="contact.css" crc="261666561" ref="contact"/>
-    <file name="resistor_-variable-resistor---ldr.css" crc="4233081456" ref="resistor,-variable-resistor---ldr"/>
-    <file name="transisitor---mosfet.css" crc="97645843" ref="transisitor---mosfet"/>
-    <file name="relay.css" crc="4231041227" ref="relay"/>
-    <file name="spare-parts.css" crc="44323102" ref="spare-parts"/>
-    <file name="soalr-panel.css" crc="4017930940" ref="soalr-panel"/>
-    <file name="policy.css" crc="4221559475" ref="policy"/>
-    <file name="board.css" crc="498385481" ref="board"/>
-    <file name="led---ir.css" crc="74876658" ref="led---ir"/>
-    <file name="capacitors.css" crc="3899726986" ref="capacitors"/>
-    <file name="ic---base.css" crc="177137280" ref="ic---base"/>
-    <file name="battery.css" crc="436792410" ref="battery"/>
-    <file name="connector.css" crc="4261486092" ref="connector"/>
-    <file name="other-parts.css" crc="179867352" ref="other-parts"/>
+    <file name="master_a-master.css" crc="4293335625" ref="index:order:contact:resistor,-variable-resistor---ldr:transisitor---mosfet:relay:spare-parts:soalr-panel:policy:board:led---ir:capacitors:ic---base:battery:connector:other-parts"/>
+    <file name="index.css" crc="4135653143" ref="index"/>
+    <file name="order.css" crc="195488912" ref="order"/>
+    <file name="contact.css" crc="14486364" ref="contact"/>
+    <file name="resistor_-variable-resistor---ldr.css" crc="263456664" ref="resistor,-variable-resistor---ldr"/>
+    <file name="transisitor---mosfet.css" crc="58437194" ref="transisitor---mosfet"/>
+    <file name="relay.css" crc="157457301" ref="relay"/>
+    <file name="spare-parts.css" crc="4194427275" ref="spare-parts"/>
+    <file name="soalr-panel.css" crc="91346102" ref="soalr-panel"/>
+    <file name="policy.css" crc="190375833" ref="policy"/>
+    <file name="board.css" crc="364912453" ref="board"/>
+    <file name="led---ir.css" crc="226820511" ref="led---ir"/>
+    <file name="capacitors.css" crc="64270320" ref="capacitors"/>
+    <file name="ic---base.css" crc="229284521" ref="ic---base"/>
+    <file name="battery.css" crc="251599741" ref="battery"/>
+    <file name="connector.css" crc="343547898" ref="connector"/>
+    <file name="other-parts.css" crc="4175079035" ref="other-parts"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:spare-parts:order:policy:contact:led---ir:resistor,-variable-resistor---ldr:capacitors:transisitor---mosfet:ic---base:relay:battery:board:connector:soalr-panel:other-parts"/>
@@ -34,9 +34,9 @@
     <file name="form-u955.php" crc="59979123" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="logo science.jpg" crc="3820908271" ref="index"/>
-    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
-    <file name="331410.jpg" crc="30604949" ref="index"/>
+    <file name="logo science.jpg" crc="3820908271" ref="index:order"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:order"/>
+    <file name="331410.jpg" crc="30604949" ref="index:order"/>
     <file name="pir.jpg" crc="4200950119" ref="index"/>
     <file name="ir security.jpg" crc="390163346" ref="index"/>
     <file name="dark.jpg" crc="4210704071" ref="index"/>
@@ -116,21 +116,22 @@
     <file name="img_20190225_175915.jpg" crc="349739165" ref="other-parts"/>
     <file name="img_20190225_175613.jpg" crc="351093949" ref="other-parts"/>
     <file name="img_20190225_175720.jpg" crc="4137774710" ref="other-parts"/>
+    <file name="web.png" crc="220047897" seo="true" ref="index:spare-parts:order:policy:contact:led---ir:resistor,-variable-resistor---ldr:capacitors:transisitor---mosfet:ic---base:relay:battery:board:connector:soalr-panel:other-parts"/>
   </folder>
-  <file name="index.html" crc="4041084361" seo="true" mt="1551113607360" redirect="true"/>
-  <file name="spare-parts.html" crc="3770476666" seo="true" mt="1551113607360" redirect="true"/>
-  <file name="order.html" crc="3982168997" seo="true" mt="1551114959422" redirect="true"/>
-  <file name="policy.html" crc="427267233" seo="true" mt="1551115267331" redirect="true"/>
-  <file name="contact.html" crc="191460917" seo="true" mt="1551115337204" redirect="true"/>
-  <file name="led---ir.html" crc="26514094" seo="true" mt="1551115156737" redirect="true"/>
-  <file name="resistor,-variable-resistor---ldr.html" crc="4106859143" seo="true" mt="1551115139505" redirect="true"/>
-  <file name="capacitors.html" crc="530460055" seo="true" mt="1551115120989" redirect="true"/>
-  <file name="transisitor---mosfet.html" crc="421244715" seo="true" mt="1551115093324" redirect="true"/>
-  <file name="ic---base.html" crc="4125670757" seo="true" mt="1551115067932" redirect="true"/>
-  <file name="relay.html" crc="530859799" seo="true" mt="1551115053058" redirect="true"/>
-  <file name="battery.html" crc="3924170457" seo="true" mt="1551115033627" redirect="true"/>
-  <file name="board.html" crc="116263193" seo="true" mt="1551115007219" redirect="true"/>
-  <file name="connector.html" crc="4235899077" seo="true" mt="1551114850065" redirect="true"/>
-  <file name="soalr-panel.html" crc="4058167638" seo="true" mt="1551114884305" redirect="true"/>
-  <file name="other-parts.html" crc="288351545" seo="true" mt="1551114991555" redirect="true"/>
+  <file name="index.html" crc="4036728280" seo="true" mt="1551289940313" redirect="true"/>
+  <file name="spare-parts.html" crc="4269317607" seo="true" mt="1551289940314" redirect="true"/>
+  <file name="order.html" crc="401103559" seo="true" mt="1551290200921" redirect="true"/>
+  <file name="policy.html" crc="4168482718" seo="true" mt="1551289940315" redirect="true"/>
+  <file name="contact.html" crc="482858104" seo="true" mt="1551289940316" redirect="true"/>
+  <file name="led---ir.html" crc="455280777" seo="true" mt="1551289940317" redirect="true"/>
+  <file name="resistor,-variable-resistor---ldr.html" crc="3979820582" seo="true" mt="1551289940318" redirect="true"/>
+  <file name="capacitors.html" crc="4112222470" seo="true" mt="1551289940318" redirect="true"/>
+  <file name="transisitor---mosfet.html" crc="237836101" seo="true" mt="1551289940319" redirect="true"/>
+  <file name="ic---base.html" crc="4041796092" seo="true" mt="1551289940320" redirect="true"/>
+  <file name="relay.html" crc="131499525" seo="true" mt="1551289940321" redirect="true"/>
+  <file name="battery.html" crc="4008290165" seo="true" mt="1551289940322" redirect="true"/>
+  <file name="board.html" crc="4130491048" seo="true" mt="1551289940322" redirect="true"/>
+  <file name="connector.html" crc="429283770" seo="true" mt="1551289940323" redirect="true"/>
+  <file name="soalr-panel.html" crc="4028198738" seo="true" mt="1551289940324" redirect="true"/>
+  <file name="other-parts.html" crc="3817354146" seo="true" mt="1551289940325" redirect="true"/>
 </manifest>
