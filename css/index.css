@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
 	color: #0000F6;
-	background-color: #810F17;
+	background-color: #37470F;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1366px;
-	min-height: 4917.450000000031px;
+	min-height: 4917.450000000034px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -57,14 +57,14 @@
 #pu1823
 {
 	width: 0.01px;
-	margin-left: 21px;
-	margin-top: 80px;
+	margin-left: 20px;
+	margin-top: 81px;
 }
 
 #u1823
 {
 	z-index: 115;
-	width: 166px;
+	width: 170px;
 	margin-right: -10000px;
 }
 
@@ -73,21 +73,21 @@
 	z-index: 5;
 	width: 683px;
 	margin-right: -10000px;
-	margin-top: 8px;
-	left: 642px;
+	margin-top: 18px;
+	left: 637px;
 }
 
 #u177
 {
 	width: 135px;
-	min-height: 62px;
+	min-height: 38px;
 	margin-right: -10000px;
 }
 
 #u178
 {
 	width: 135px;
-	padding-bottom: 38px;
+	padding-bottom: 14px;
 }
 
 #u178:hover
@@ -109,7 +109,7 @@
 	width: 135px;
 	min-height: 24px;
 	margin-right: -10000px;
-	top: 19px;
+	top: 7px;
 }
 
 #u178:hover #u181-4
@@ -133,7 +133,7 @@
 #u184
 {
 	width: 135px;
-	min-height: 62px;
+	min-height: 38px;
 	margin-right: -10000px;
 	left: 137px;
 }
@@ -141,7 +141,7 @@
 #u185
 {
 	width: 135px;
-	padding-bottom: 38px;
+	padding-bottom: 14px;
 }
 
 #u178.MuseMenuActive,#u185:hover
@@ -163,7 +163,7 @@
 	width: 121px;
 	min-height: 24px;
 	margin-right: -10000px;
-	top: 19px;
+	top: 7px;
 }
 
 #u185:hover #u187-4
@@ -199,7 +199,7 @@
 	width: 14px;
 	height: 14px;
 	margin-right: -10000px;
-	top: 24px;
+	top: 12px;
 	left: 121px;
 }
 
@@ -230,7 +230,7 @@
 #u189
 {
 	width: 120px;
-	top: 62px;
+	top: 38px;
 }
 
 #u190
@@ -654,7 +654,7 @@
 #u192
 {
 	width: 135px;
-	min-height: 62px;
+	min-height: 38px;
 	margin-right: -10000px;
 	left: 274px;
 }
@@ -662,7 +662,7 @@
 #u195
 {
 	width: 135px;
-	padding-bottom: 38px;
+	padding-bottom: 14px;
 }
 
 #u185.MuseMenuActive,#u195:hover
@@ -684,7 +684,7 @@
 	width: 135px;
 	min-height: 24px;
 	margin-right: -10000px;
-	top: 19px;
+	top: 7px;
 }
 
 #u178.MuseMenuActive #u181-4,#u195:hover #u196-4
@@ -708,7 +708,7 @@
 #u199
 {
 	width: 135px;
-	min-height: 62px;
+	min-height: 38px;
 	margin-right: -10000px;
 	left: 411px;
 }
@@ -716,7 +716,7 @@
 #u202
 {
 	width: 135px;
-	padding-bottom: 38px;
+	padding-bottom: 14px;
 }
 
 #u195.MuseMenuActive,#u202:hover
@@ -738,7 +738,7 @@
 	width: 135px;
 	min-height: 24px;
 	margin-right: -10000px;
-	top: 19px;
+	top: 7px;
 }
 
 #u195.MuseMenuActive #u196-4,#u202:hover #u203-4
@@ -762,7 +762,7 @@
 #u206
 {
 	width: 135px;
-	min-height: 62px;
+	min-height: 38px;
 	margin-right: -10000px;
 	left: 548px;
 }
@@ -770,7 +770,7 @@
 #u209
 {
 	width: 135px;
-	padding-bottom: 38px;
+	padding-bottom: 14px;
 }
 
 #u202.MuseMenuActive,#u209:hover
@@ -799,7 +799,7 @@
 	width: 135px;
 	min-height: 24px;
 	margin-right: -10000px;
-	top: 19px;
+	top: 7px;
 }
 
 #u202.MuseMenuActive #u203-4,#u209:hover #u211-4
@@ -833,15 +833,16 @@
 {
 	width: 0.01px;
 	margin-left: 20px;
-	margin-top: 3px;
+	margin-top: 37px;
 }
 
 #u1829
 {
 	z-index: 2;
 	width: 1326px;
-	padding-bottom: 88px;
+	padding-bottom: 177px;
 	margin-right: -10000px;
+	margin-top: 46px;
 }
 
 #u1819
@@ -849,7 +850,7 @@
 	z-index: 114;
 	width: 1120px;
 	margin-right: -10000px;
-	margin-top: 89px;
+	margin-top: 5px;
 	left: 103px;
 }
 
@@ -868,10 +869,10 @@
 	border-style: solid;
 	border-color: #8C6239;
 	background-color: transparent;
+	line-height: 58px;
 	color: #8C6239;
 	font-size: 48px;
 	text-align: center;
-	line-height: 58px;
 	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	margin-left: 9px;
@@ -974,11 +975,11 @@
 	min-height: 40px;
 	background-color: transparent;
 	border-radius: 10px;
+	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1005,11 +1006,11 @@
 	min-height: 39px;
 	background-color: transparent;
 	border-radius: 10px;
+	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1082,11 +1083,11 @@
 	min-height: 40px;
 	background-color: transparent;
 	border-radius: 10px;
+	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1113,11 +1114,11 @@
 	min-height: 39px;
 	background-color: transparent;
 	border-radius: 10px;
+	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1199,11 +1200,11 @@
 	min-height: 40px;
 	background-color: transparent;
 	border-radius: 10px;
+	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1230,11 +1231,11 @@
 	min-height: 39px;
 	background-color: transparent;
 	border-radius: 10px;
+	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1300,11 +1301,11 @@
 	min-height: 40px;
 	background-color: transparent;
 	border-radius: 10px;
+	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1331,11 +1332,11 @@
 	min-height: 39px;
 	background-color: transparent;
 	border-radius: 10px;
+	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1372,9 +1373,8 @@
 	width: 365px;
 	min-height: 149px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-size: 30px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1403,9 +1403,9 @@
 	width: 386px;
 	min-height: 148px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-size: 30px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1438,11 +1438,11 @@
 	min-height: 40px;
 	background-color: transparent;
 	border-radius: 10px;
+	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1469,11 +1469,11 @@
 	min-height: 39px;
 	background-color: transparent;
 	border-radius: 10px;
+	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1510,9 +1510,8 @@
 	width: 365px;
 	min-height: 149px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-size: 30px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1541,9 +1540,8 @@
 	width: 386px;
 	min-height: 148px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-size: 30px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1576,11 +1574,11 @@
 	min-height: 40px;
 	background-color: transparent;
 	border-radius: 10px;
+	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1607,11 +1605,11 @@
 	min-height: 39px;
 	background-color: transparent;
 	border-radius: 10px;
+	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1648,9 +1646,8 @@
 	width: 365px;
 	min-height: 149px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-size: 30px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1679,14 +1676,24 @@
 	width: 386px;
 	min-height: 148px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-size: 30px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 143px;
 	left: 43px;
+}
+
+#u1033-2,#u1033-4,#u1051-2,#u1051-4,#u1052-2,#u1052-4,#u1053-2,#u1053-4,#u1054-2,#u1054-4
+{
+	color: #FFFFFF;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+}
+
+#u1033-5,#u1051-5,#u1052-5,#u1053-5,#u1054-5
+{
+	font-family: Comic Sans, Comic Sans MS, cursive;
 }
 
 #pu1046
@@ -1722,11 +1729,11 @@
 	min-height: 40px;
 	background-color: transparent;
 	border-radius: 10px;
+	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1761,11 +1768,11 @@
 	min-height: 39px;
 	background-color: transparent;
 	border-radius: 10px;
+	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1793,9 +1800,9 @@
 	width: 365px;
 	min-height: 149px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-size: 30px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1803,7 +1810,7 @@
 	left: 42px;
 }
 
-#u1033-2,#u1033-4,#u1038-2,#u1038-4,#u1051-2,#u1051-4,#u1052-2,#u1052-4,#u1053-2,#u1053-4,#u1054-2,#u1054-4,#u1809-2,#u1809-4
+#u1038-2,#u1038-4,#u1809-2,#u1809-4
 {
 	color: #FFFFFF;
 }
@@ -1835,11 +1842,11 @@
 	min-height: 40px;
 	background-color: transparent;
 	border-radius: 10px;
+	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -1853,7 +1860,6 @@
 	width: 1326px;
 	height: 4814px;
 	margin-right: -10000px;
-	margin-top: 38px;
 	left: 1822px;
 }
 
@@ -1861,7 +1867,7 @@
 {
 	width: 0.01px;
 	margin-left: 20px;
-	margin-top: 12px;
+	margin-top: 17px;
 }
 
 #u883-4
