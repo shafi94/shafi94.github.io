@@ -1,18 +1,3 @@
-#u165
-{
-	background-color: #8C6239;
-	opacity: 0.6699999999999999;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=66.99999999999999)";
-	filter: alpha(opacity=66.99999999999999);
-	position: relative;
-}
-
-#u166
-{
-	position: relative;
-	background: transparent url("../images/logo%20science.jpg") no-repeat center center;
-}
-
 #menuu176
 {
 	border-style: none;
@@ -29,7 +14,7 @@
 
 #u178:hover
 {
-	background-color: #FF0000;
+	background-color: #E21E79;
 }
 
 #u178:active
@@ -42,10 +27,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 24px;
 	color: #764C28;
 	font-size: 20px;
 	text-align: center;
+	line-height: 24px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -58,7 +43,7 @@
 
 #u185:hover
 {
-	background-color: #FF0000;
+	background-color: #E21E79;
 }
 
 #u185:active
@@ -71,10 +56,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 24px;
 	color: #764C28;
 	font-size: 20px;
 	text-align: center;
+	line-height: 24px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -385,7 +370,7 @@
 
 #u195:hover
 {
-	background-color: #FF0000;
+	background-color: #E21E79;
 }
 
 #u195:active
@@ -398,10 +383,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 24px;
 	color: #764C28;
 	font-size: 20px;
 	text-align: center;
+	line-height: 24px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -414,7 +399,7 @@
 
 #u202:hover
 {
-	background-color: #FF0000;
+	background-color: #E21E79;
 }
 
 #u202:active
@@ -427,10 +412,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 24px;
 	color: #764C28;
 	font-size: 20px;
 	text-align: center;
+	line-height: 24px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -449,7 +434,7 @@
 
 #u209:hover
 {
-	background-color: #FF0000;
+	background-color: #E21E79;
 }
 
 #u209:active
@@ -459,7 +444,7 @@
 
 #u178.MuseMenuActive,#u185.MuseMenuActive,#u195.MuseMenuActive,#u202.MuseMenuActive,#u209.MuseMenuActive
 {
-	background-color: #D4145A;
+	background-color: #FF0000;
 }
 
 #u211-4
@@ -467,10 +452,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 24px;
 	color: #764C28;
 	font-size: 20px;
 	text-align: center;
+	line-height: 24px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -490,12 +475,6 @@
 {
 	background-color: #FFFFFF;
 	position: relative;
-}
-
-#u1812
-{
-	position: relative;
-	background: transparent url("../images/331410.jpg") repeat-y center center;
 }
 
 #u883-4
